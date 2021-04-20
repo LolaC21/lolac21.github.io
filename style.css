@@ -1,5 +1,17 @@
-Aero blue: BCF4DE
-Honeydew: CDE5D7
-Timberwolf: DED6D1
-Baby pink: EEC6CA
-Cherry blossom pink: FFB7C3
+ body {
+	background-color: #2C3249;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+p {
+	color: white;
+}
